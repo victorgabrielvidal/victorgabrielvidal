@@ -1,16 +1,17 @@
-### Hi there 👋
+# ola esse e meu perfil
 
-<!--
-**victorgabrielvidal/victorgabrielvidal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ - Nmeu nome é victor gabriel vidal
+   
+ -  Estudo no COLEGIO ESTADUAL CIVICO MILITAR HELENA VIANA SUNDIN
+  
+- Estou estudando na plataforma [scratch](https://scratch.mit.edu/)
+  
+- e tambem na plataforma [alura](https://cursos.alura.com.br/edutech)
+  
+## VOCE PODE ENTRAR EM CONTATO COMIGO 
 
-Here are some ideas to get you started:
+VICTOR.LEONARDI@ESCOLA.PR.GOV.BR
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://media.tenor.com/4nnGjyefLJkAAAAC/saitama.gif)
+
+![](https://media.tenor.com/wwgundXJAQcAAAAC/ardinha-anime.gif)
